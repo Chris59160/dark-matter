@@ -7,6 +7,6 @@ echo %uproject%
 echo %1
 set "batfile=%1\..\UnrealEngine\Engine\Build\BatchFiles\Build.bat"
 echo "%batfile%"
-"%batfile%" DarkMatterEditor Win64 Development "%uproject%" -WaitMutex
-rem "../../../UnrealEngine/Engine/Build/BatchFiles/Build.bat" DarkMatterEditor Win64 Development "%uproject%" -WaitMutex
+rem "%batfile%" DarkMatterEditor Win64 Development "%uproject%" -WaitMutex
+"../../../UnrealEngine/Engine/Build/BatchFiles/Build.bat" DarkMatterEditor Win64 Development "%uproject%" -WaitMutex
 echo Finished
