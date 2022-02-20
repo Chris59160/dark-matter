@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DarkMatter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4F32F051-9C59-4931-A734-264F56588C7D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DarkMatter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DarkMatterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\text.txt" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{A87FB579-CB5C-486B-8F10-7938D74B1066}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DarkMatter">
+      <UniqueIdentifier>{A7F09A58-7865-4457-BD93-A40CDEC00CBA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DarkMatter\DarkMatter.Build.cs">
+      <Filter>Source\DarkMatter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DarkMatter\DarkMatter.cpp">
+      <Filter>Source\DarkMatter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DarkMatter\DarkMatter.h">
+      <Filter>Source\DarkMatter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DarkMatter\DarkMatterGameModeBase.cpp">
+      <Filter>Source\DarkMatter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DarkMatter\DarkMatterGameModeBase.h">
+      <Filter>Source\DarkMatter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DarkMatter\ICharacterType.h">
+      <Filter>Source\DarkMatter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DarkMatter\IMineType.h">
+      <Filter>Source\DarkMatter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DarkMatter\IObjectType.h">
+      <Filter>Source\DarkMatter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DarkMatter\IType.h">
+      <Filter>Source\DarkMatter</Filter>
+    </ClInclude>
+    <Filter Include="Source\DarkMatter\Private">
+      <UniqueIdentifier>{D66E4F2F-DE6B-4950-9CE3-4D62B8651589}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DarkMatter\Private\ITestInterface.cpp">
+      <Filter>Source\DarkMatter\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DarkMatter\Private\Interfaces">
+      <UniqueIdentifier>{E7227EF9-E155-4265-A7FA-600A8D5791B2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DarkMatter\Private\Interfaces\ITypeComponent.cpp">
+      <Filter>Source\DarkMatter\Private\Interfaces</Filter>
+    </ClCompile>
+    <Filter Include="Source\DarkMatter\Public">
+      <UniqueIdentifier>{903D944A-D5FC-40BF-A250-661ABC6708DE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DarkMatter\Public\ITestInterface.h">
+      <Filter>Source\DarkMatter\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\DarkMatter\Public\Interfaces">
+      <UniqueIdentifier>{03AB2549-4934-40B9-9808-D02596191CF2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DarkMatter\Public\Interfaces\ITypeComponent.h">
+      <Filter>Source\DarkMatter\Public\Interfaces</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
