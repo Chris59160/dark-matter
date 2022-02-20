@@ -1,0 +1,19 @@
+Test Pushing Shit
+
+
+- What is a Proximity Mine.
+
+It is a Blueprint that has specific Components:
+	- a Proximity Type Component that is implementing the IMine interface
+	- a ProximityMineFlowComponent that is inheriting the MineFlowComponent, and is overriding specific functions to adapt as a Proximity Mine (assuming it needs to react to any thing close to it)
+	- a Collision Component that isn't a HIT collision but only OverlapEnter and Exit
+
+	Extension:
+		- New behaviour: EnemyProximityMineFlowComponent inheriting from ProximityMineFlowComponent, and override the function determining if it needs to react to something overlapping the trigger space, and
+		only return true if the entering Actor has a ICharacter type component interface, and if that one is EnemyCharacter.
+		- New behaviour: PlayerProximityMineFlowComponent inheriting from ProximityMineFlowComponent, and override the function determining if it needs to react to something overlapping the trigger space, and
+		only return true if the entering Actor has a ICharacter type component interface, and if that one is PlayerCharacter.
+
+
+	We can look at having only a ProximityMine Blueprint where you need to specific the IType to look for, and a potential specific Component (We could define a mine to react to any character,
+	then look only for a specific interface, makes it faster)

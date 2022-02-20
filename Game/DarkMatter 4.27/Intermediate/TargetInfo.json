@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DarkMatter",
+			"Path": "C:\\Users\\chris\\Documents\\Unreal Projects\\dark-matter\\Game\\DarkMatter 4.27\\Source\\DarkMatter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DarkMatterEditor",
+			"Path": "C:\\Users\\chris\\Documents\\Unreal Projects\\dark-matter\\Game\\DarkMatter 4.27\\Source\\DarkMatterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
