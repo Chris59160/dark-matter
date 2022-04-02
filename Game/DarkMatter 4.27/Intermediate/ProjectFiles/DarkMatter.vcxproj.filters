@@ -5,9 +5,6 @@
     <Filter Include="Source">
       <UniqueIdentifier>{4F32F051-9C59-4931-A734-264F56588C7D}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\Source\DarkMatter.Target.cs">
-      <Filter>Source</Filter>
-    </None>
     <None Include="..\..\Source\DarkMatterEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
@@ -45,24 +42,9 @@
     <ClInclude Include="..\..\Source\DarkMatter\DarkMatterGameModeBase.h">
       <Filter>Source\DarkMatter</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Source\DarkMatter\ICharacterType.h">
-      <Filter>Source\DarkMatter</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\DarkMatter\IMineType.h">
-      <Filter>Source\DarkMatter</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\DarkMatter\IObjectType.h">
-      <Filter>Source\DarkMatter</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\DarkMatter\IType.h">
-      <Filter>Source\DarkMatter</Filter>
-    </ClInclude>
     <Filter Include="Source\DarkMatter\Private">
       <UniqueIdentifier>{D66E4F2F-DE6B-4950-9CE3-4D62B8651589}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\DarkMatter\Private\ITestInterface.cpp">
-      <Filter>Source\DarkMatter\Private</Filter>
-    </ClCompile>
     <Filter Include="Source\DarkMatter\Private\Interfaces">
       <UniqueIdentifier>{E7227EF9-E155-4265-A7FA-600A8D5791B2}</UniqueIdentifier>
     </Filter>
@@ -72,13 +54,24 @@
     <Filter Include="Source\DarkMatter\Public">
       <UniqueIdentifier>{903D944A-D5FC-40BF-A250-661ABC6708DE}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\DarkMatter\Public\ITestInterface.h">
-      <Filter>Source\DarkMatter\Public</Filter>
-    </ClInclude>
     <Filter Include="Source\DarkMatter\Public\Interfaces">
       <UniqueIdentifier>{03AB2549-4934-40B9-9808-D02596191CF2}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\DarkMatter\Public\Interfaces\ITypeComponent.h">
+      <Filter>Source\DarkMatter\Public\Interfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\DarkMatter.Target.cs">
+      <Filter>Source\DarkMatter</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\DarkMatter\IType.h">
+      <Filter>Source\DarkMatter\Public\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DarkMatter\IMineType.h">
+      <Filter>Source\DarkMatter\Public\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DarkMatter\IObjectType.h">
       <Filter>Source\DarkMatter\Public\Interfaces</Filter>
     </ClInclude>
   </ItemGroup>
