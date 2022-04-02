@@ -86,3 +86,28 @@ Game/DarkMatter 4.27/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Game/DarkMatter 4.27/DerivedDataCache/*
+Game/DarkMatter 4.27/Intermediate/Build/SourceFileCache.bin
+Game/DarkMatter 4.27/Intermediate/Build/Win64/ActionHistory.bin
+Game/DarkMatter 4.27/Intermediate/Build/Win64/DarkMatterEditor/Development/ActionHistory.bin
+Game/DarkMatter 4.27/Intermediate/Build/Win64/DarkMatterEditor/Development/DarkMatterEditor.uhtmanifest
+Game/DarkMatter 4.27/Intermediate/Build/Win64/DarkMatterEditor/Development/DependencyCache.bin
+Game/DarkMatter 4.27/Intermediate/Build/Win64/DarkMatterEditor/Development/HotReload.state
+Game/DarkMatter 4.27/Intermediate/Build/Win64/DarkMatterEditor/Development/Makefile.bin
+Game/DarkMatter 4.27/Intermediate/Build/Win64/DarkMatterEditor/Development/Metadata-HotReload.dat
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/ITestInterface.cpp.obj.response
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/ITestInterface.cpp.txt
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/UE4Editor-DarkMatter-6695.dll.response
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/UE4Editor-DarkMatter-6695.exp
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/UE4Editor-DarkMatter-6695.lib.response
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/UE4Editor-DarkMatter-6695.suppressed.exp
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/UE4Editor-DarkMatter.dll.response
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/UE4Editor-DarkMatter.dll.response.old
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/UE4Editor-DarkMatter.exp
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/UE4Editor-DarkMatter.lib.response
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/UE4Editor-DarkMatter.lib.response.old
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/DarkMatter/UE4Editor-DarkMatter.suppressed.exp
+Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Inc/DarkMatter/Timestamp
+Game/DarkMatter 4.27/Intermediate/CachedAssetRegistry.bin
+Game/DarkMatter 4.27/Intermediate/ProjectFiles/DarkMatter.vcxproj
+Game/DarkMatter 4.27/Intermediate/ProjectFiles/DarkMatter.vcxproj.filters
