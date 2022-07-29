@@ -84,6 +84,8 @@ Game/DarkMatter/DerivedDataCache/*
 Game/DarkMatter 4.27/Intermediate/*
 Game/DarkMatter 4.27/Plugins/*/Intermediate/*
 
+Game/DarkMatter 4.27/Saved/*
+
 # Cache files for the editor to use
 Game/DarkMatter 4.27/DerivedDataCache/*
 Game/DarkMatter 4.27/Intermediate/Build/SourceFileCache.bin
