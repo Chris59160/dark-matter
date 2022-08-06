@@ -116,3 +116,4 @@ Game/DarkMatter 4.27/Intermediate/ProjectFiles/DarkMatter.vcxproj.filters
 *.bin
 Game/DarkMatter 4.27/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin
 Game/DarkMatter 4.27/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.ini
