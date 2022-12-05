@@ -32,15 +32,15 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Andy\dark-matter\Game\DarkMatter 4.27\Source\DarkMatter\Private"
+/I "C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Source\DarkMatter\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I "C:\Andy\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\UE4Editor\Inc\DarkMatter"
-/I "C:\Andy\dark-matter\Game\DarkMatter 4.27\Source"
-/I "C:\Andy\dark-matter\Game\DarkMatter 4.27\Source\DarkMatter\Public"
+/I "C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\UE4Editor\Inc\DarkMatter"
+/I "C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Source"
+/I "C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Source\DarkMatter\Public"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
@@ -260,16 +260,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Andy\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\DarkMatterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Andy\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\DarkMatterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Andy\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\DarkMatterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Andy\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\UE4Editor\Inc\DarkMatter\DarkMatterGameModeBase.gen.cpp"
-/FI"C:\Andy\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\UE4Editor\Development\DarkMatter\Definitions.DarkMatter.h"
-/Fo"C:\Andy\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\UE4Editor\Development\DarkMatter\DarkMatterGameModeBase.gen.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\DarkMatterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\DarkMatterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\DarkMatterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\UE4Editor\Inc\DarkMatter\DarkMatterGameModeBase.gen.cpp"
+/FI"C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\UE4Editor\Development\DarkMatter\Definitions.DarkMatter.h"
+/Fo"C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\UE4Editor\Development\DarkMatter\DarkMatterGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4
