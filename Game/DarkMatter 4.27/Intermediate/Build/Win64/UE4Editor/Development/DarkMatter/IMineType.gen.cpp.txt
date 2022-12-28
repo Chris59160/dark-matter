@@ -1,7 +1,0 @@
-C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\UE4Editor\Development\DarkMatter\Definitions.DarkMatter.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Source\DarkMatter/IMineType.h
-C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Source\DarkMatter\IType.h
-C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\UE4Editor\Inc\DarkMatter\IType.generated.h
-C:\Users\chris\Documents\Unreal Projects\dark-matter\Game\DarkMatter 4.27\Intermediate\Build\Win64\UE4Editor\Inc\DarkMatter\IMineType.generated.h
