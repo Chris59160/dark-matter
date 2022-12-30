@@ -93,3 +93,7 @@ Game/DarkMatter 4.27/DerivedDataCache/*
 *.bin
 *.ini
 *.ini
+Game/DarkMatter 4.27/Intermediate/CachedAssetRegistry.bin
+Game/DarkMatter 4.27/Saved/AutoScreenshot.png
+Game/DarkMatter 4.27/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Game/DarkMatter 4.27/Saved/Config/Windows/Engine.ini
